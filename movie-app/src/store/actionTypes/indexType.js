@@ -1,0 +1,8 @@
+export const MOVIES_FETCHED = 'movies/fetched'
+export const DETAIL_MOVIE_FETCHED = 'detail/fetched'
+export const MOVIES_PAGES = 'movies/page'
+export const MOVIES_LOADING = 'movies/loading'
+export const MOVIES_ERROR = 'movies/error'
+export const GENRE_FETCH = 'genre/fetched'
+export const GENRE_LOADING = 'genre/loading'
+export const GENRE_ERROR = 'genre/error'

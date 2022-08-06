@@ -1,0 +1,1 @@
+running the apps use npm start
